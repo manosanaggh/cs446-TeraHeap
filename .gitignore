@@ -1,0 +1,11 @@
+*.o
+*.pyc
+*.class
+*.log
+*.so
+*.jar
+*.txt
+tags
+openjdk/build/
+*.res
+benchmarks/
